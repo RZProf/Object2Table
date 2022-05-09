@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5629af18_002D5073_002D46de_002D97ff_002D0515221bc151/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TestPrint_WhenSimpleObject_ResultMustBeAsExpected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3E1DE081-F91B-4DFB-A9D8-88920DE624EB::.NETCoreApp,Version=v3.1::Object2Table.UnitTests.ObjectPrinterUnitTest.TestPrint_WhenSimpleObject_ResultMustBeAsExpected&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::3E1DE081-F91B-4DFB-A9D8-88920DE624EB::.NETCoreApp,Version=v3.1::Object2Table.UnitTests.ObjectPrinterUnitTest.TestPrint_WhenObjectContainsDictionary_ResultMustBeAsExpected&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d259c227_002D2e63_002D4184_002Da371_002D546fd0919dd4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestPrint_WhenObjectContainsDictionary_ResultMustBeAsExpected" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::3E1DE081-F91B-4DFB-A9D8-88920DE624EB::.NETCoreApp,Version=v3.1::Object2Table.UnitTests.ObjectPrinterUnitTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

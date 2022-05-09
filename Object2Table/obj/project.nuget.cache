@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jwXD2gLvs75JWPxtrlAfh5FXV6zldNexnFvjm4V78H4E//hm2wAKxMsVz88myhxhLFOP/Wr9a8HXxu2ZPJ2z5Q==",
+  "success": true,
+  "projectFilePath": "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/Object2Table.csproj",
+  "expectedPackageFiles": [
+    "/Users/rezamousazadeh/.nuget/packages/sigil/5.0.0/sigil.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
