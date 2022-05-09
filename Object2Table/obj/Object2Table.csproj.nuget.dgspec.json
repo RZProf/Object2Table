@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/Object2Table.csproj": {}
+  },
+  "projects": {
+    "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/Object2Table.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/Object2Table.csproj",
+        "projectName": "Object2Table",
+        "projectPath": "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/Object2Table.csproj",
+        "packagesPath": "/Users/rezamousazadeh/.nuget/packages/",
+        "outputPath": "/Users/rezamousazadeh/Projects/Object2Table/Object2Table/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/rezamousazadeh/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Sigil": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
