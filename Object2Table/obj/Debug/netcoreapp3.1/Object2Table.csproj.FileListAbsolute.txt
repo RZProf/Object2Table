@@ -1,0 +1,9 @@
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/bin/Debug/netcoreapp3.1/Object2Table.deps.json
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/bin/Debug/netcoreapp3.1/Object2Table.dll
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/bin/Debug/netcoreapp3.1/Object2Table.pdb
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.csprojAssemblyReference.cache
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.AssemblyInfoInputs.cache
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.AssemblyInfo.cs
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.csproj.CoreCompileInputs.cache
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.dll
+/Users/rezamousazadeh/RiderProjects/Object2Table/Object2Table/obj/Debug/netcoreapp3.1/Object2Table.pdb
